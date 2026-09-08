@@ -1,0 +1,1 @@
+#Font kalınlık büyüklük vesaire 
