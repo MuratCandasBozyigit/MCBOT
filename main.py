@@ -45,7 +45,7 @@ def ana_menu():
     elif kullanici_secimi == "6":
         start_module(bonds, "start_bonds")
     elif kullanici_secimi =="7":
-        start_module(allsettings,"start_allsettings")
+        start_module(allsettings,"start_all_settings")
     else:
         print("[-] Hata oluştu... Lütfen 1 ile 7 arasında geçerli bir numara girin.")
 
